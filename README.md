@@ -31,14 +31,14 @@ After a lot of research work and experiment, we were able to create a dynamic on
 STEPS TO RUN CODE : <br>
 
 How To run Front-end (Angular)
-$ git clone https://github.com/ritweekraj2802/ExamGo.git <br>
+$ git clone  https://github.com/ritweekraj2802/XNK76596153-RITWEEK/tree/main/ExamGo-main/Frontend/quiz <br>
 $ cd Frontend <br>
 $ cd quiz <br>
 $ npm install <br>
 $ ng serve <br>
 
 How To run Back-end
-$ git clone https://github.com/ritweekraj2802/ExamGo.git <br>
+$ git clone  https://github.com/ritweekraj2802/XNK76596153-RITWEEK/tree/main/ExamGo-main/Backend  <br>
 $ cd Backend <br>
 $ npm install <br>
 $ npm run dev <br>
